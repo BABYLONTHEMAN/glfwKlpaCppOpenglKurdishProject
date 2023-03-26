@@ -1,0 +1,31 @@
+﻿  glad.c
+  Input.cpp
+  Window.cpp
+C:\Users\babyl\source\repos\2022\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\Window.cpp(202,23): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\babyl\source\repos\2022\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\Window.cpp(203,23): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\babyl\source\repos\2022\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\Window.cpp(206,29): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\babyl\source\repos\2022\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\Window.cpp(207,41): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\babyl\source\repos\2022\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\Window.cpp(209,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\babyl\source\repos\2022\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\Window.cpp(210,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  main.cpp
+C:\Users\babyl\source\repos\2022\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(362,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\babyl\source\repos\2022\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(363,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\babyl\source\repos\2022\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(364,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\babyl\source\repos\2022\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(365,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\babyl\source\repos\2022\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(992,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'GLchar *'
+C:\Users\babyl\source\repos\2022\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(992,10): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\babyl\source\repos\2022\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(992,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\babyl\source\repos\2022\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(992,10): message : the missing variadic argument 2 is required by format string '%s'
+C:\Users\babyl\source\repos\2022\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(1002,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'GLchar *'
+C:\Users\babyl\source\repos\2022\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(1002,10): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\babyl\source\repos\2022\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(1002,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\babyl\source\repos\2022\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(1002,10): message : the missing variadic argument 2 is required by format string '%s'
+C:\Users\babyl\source\repos\2022\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(1124,75): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\babyl\source\repos\2022\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(1124,26): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\babyl\source\repos\2022\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(1123,91): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\babyl\source\repos\2022\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(1123,42): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\babyl\source\repos\2022\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(1589,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+C:\Users\babyl\source\repos\2022\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\Window.cpp(103): warning C4715: 'Window::initialise': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  PerfectionistKlpa.vcxproj -> C:\Users\babyl\source\repos\2022\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\Debug\PerfectionistKlpa.exe

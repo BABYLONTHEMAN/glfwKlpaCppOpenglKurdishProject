@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\Users\babyl\source\repos\codezero\FOGG\FOGG\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(363,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\babyl\source\repos\codezero\FOGG\FOGG\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(364,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\babyl\source\repos\codezero\FOGG\FOGG\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(365,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\babyl\source\repos\codezero\FOGG\FOGG\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(366,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\babyl\source\repos\codezero\FOGG\FOGG\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(1001,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'GLchar *'
+C:\Users\babyl\source\repos\codezero\FOGG\FOGG\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(1001,10): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\babyl\source\repos\codezero\FOGG\FOGG\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(1001,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\babyl\source\repos\codezero\FOGG\FOGG\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(1001,10): message : the missing variadic argument 2 is required by format string '%s'
+C:\Users\babyl\source\repos\codezero\FOGG\FOGG\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(1011,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'GLchar *'
+C:\Users\babyl\source\repos\codezero\FOGG\FOGG\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(1011,10): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\babyl\source\repos\codezero\FOGG\FOGG\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(1011,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\babyl\source\repos\codezero\FOGG\FOGG\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(1011,10): message : the missing variadic argument 2 is required by format string '%s'
+C:\Users\babyl\source\repos\codezero\FOGG\FOGG\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(1133,75): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\babyl\source\repos\codezero\FOGG\FOGG\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(1133,26): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\babyl\source\repos\codezero\FOGG\FOGG\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(1132,91): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\babyl\source\repos\codezero\FOGG\FOGG\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(1132,42): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\babyl\source\repos\codezero\FOGG\FOGG\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\PerfectionistKlpa\main.cpp(1598,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  1 of 659 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PerfectionistKlpa.vcxproj -> C:\Users\babyl\source\repos\codezero\FOGG\FOGG\PerfectionistKlpa_MeshAdded4SkyBox - Copy1y2\perf\Release\PerfectionistKlpa.exe
